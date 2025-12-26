@@ -1,0 +1,6 @@
+# Local experiment data (never commit)
+experiments/**/data/
+
+# OS junk
+.DS_Store
+
